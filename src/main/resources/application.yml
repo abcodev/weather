@@ -1,0 +1,10 @@
+spring:
+  data:
+    redis:
+      port: 6367
+      host: localhost
+
+meteo:
+  client_id: qHXSKuc1oEpric/PQwtyeNHqHsoVWOTDA/yK3eDKHIesbki5euxKzF8Yho3TF/InITRDowT1eM1f8QjKABWJNg==
+
+
